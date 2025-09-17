@@ -1,6 +1,6 @@
-[N'importe quoi](https://github.com/joker-project/test/blob/main/test_folder/test1.md)
+[N'importe quoi](test_folder/test1)
 
-[test2](test2)
+[test2](https://www.joker-project.com/test/test2)
 
 [test3](test3)
 
